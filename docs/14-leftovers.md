@@ -84,6 +84,15 @@ other three count uncompressed bytes — so the total is a sum of different
 things and is printed as a bound rather than as a single quantity. The
 gallery and the unreadable executable are deliberately not in it.
 
+### the working directory, measured before it was deleted
+
+`_work\` reached **615,197,587 bytes** — the fourteen ROMs, their 56 regions,
+the front end, twelve gallery textures and the rendered PNGs. It was measured
+and then removed; nothing from it is committed. For comparison, the previous
+session's working directory reached 3,941,633,080 bytes, and the difference is
+that this object's interesting parts are 214 MB of ROM rather than a gigabyte
+of film.
+
 ### 8. **zero text files, and that is the entry that matters**
 
 ```
