@@ -1,0 +1,11 @@
+_work/
+_pre/
+prompt.txt
+__pycache__/
+*.pyc
+*.pyo
+*.arc
+*.tex
+*.png
+*.bin
+*.rom
